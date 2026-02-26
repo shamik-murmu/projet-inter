@@ -51,7 +51,7 @@ export function WelcomeScreen({ onStart }: { onStart: () => void }) {
           🚀 Commencer l'aventure
         </button>
         
-        <p className="text-sm text-slate-500 mt-6">Un jeu éducatif interactif • 14-18 ans</p>
+        <p className="text-sm text-slate-500 mt-6">Un jeu éducatif interactif</p>
       </div>
     </div>
   );
